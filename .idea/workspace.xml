@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8753a316-a7de-49e3-95ca-2228daa887e8" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/lab1/simple-dict/dict-api/baidu-v1/baidu-api.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/simple-dict/dict-api/baidu-v2/baiduApiV2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/simple-dict/dict-api/baidu-v2/baidu_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/simple-dict/dict-api/baidu-v2/model/model.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/simple-dict/dict-api/baidu-v2/model/parse.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/simple-dict/dict-api/baidu-v2/model/trans.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/simple-dict/dict-api/baidu-v2/signer/baidu-js.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/simple-dict/dict-api/baidu-v2/signer/baiduv2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/simple-dict/dict-api/baidu-v2/signer/sign_util.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/simple-dict/dict-api/baidu-v2/util.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/simple-dict/dict-api/color-cloud.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/simple-dict/dict-api/translate-api.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/simple-dict/simple-dict.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/bytecamp-3th-repo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bytecamp-3th-repo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go-by-example/proxy/v2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go-by-example/proxy/v2/main.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../environment/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="v0.1" />
+                    <option name="lastUsedInstant" value="1651905805" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1651905804" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$/../go-project-example" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28oVUTciHkATHkXV1FNpkXyNMwH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "D:/AtCode/Go/go-project-example",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\AtCode\Go\bytecamp-3th-repo\lab1\simple-dict\dict-api\baidu-v2\sign" />
+      <recent name="D:\AtCode\Go\bytecamp-3th-repo\lab1\simple-dict\dict-api\baidu-v2" />
+      <recent name="D:\AtCode\Go\bytecamp-3th-repo\lab1\simple-dict\dict-api" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go 构建.go build evlic.cn/bcp3th/lab/lab1/simple-dict">
+    <configuration name="go build evlic.cn/bcp3th/lab/lab1/simple-dict" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="bytecamp-3th-repo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="evlic.cn/bcp3th/lab/lab1/simple-dict" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/lab1/simple-dict/simple-dict.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="evlic.cn/bcp3th/lab/lab1/simple-dict/dict-api 中的 TestBaiDuAPIV2" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="bytecamp-3th-repo" />
+      <working_directory value="$PROJECT_DIR$/lab1/simple-dict/dict-api" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="evlic.cn/bcp3th/lab/lab1/simple-dict/dict-api" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestBaiDuAPIV2\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="evlic.cn/bcp3th/lab/lab1/simple-dict/dict-api 中的 TestSign" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="bytecamp-3th-repo" />
+      <working_directory value="$PROJECT_DIR$/lab1/simple-dict/dict-api" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="evlic.cn/bcp3th/lab/lab1/simple-dict/dict-api" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestSign\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="evlic.cn/bcp3th/lab/lab1/simple-dict/dict-api/baidu-v2 中的 TestBaiDuAPIV2" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="bytecamp-3th-repo" />
+      <working_directory value="$PROJECT_DIR$/lab1/simple-dict/dict-api/baidu-v2" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="evlic.cn/bcp3th/lab/lab1/simple-dict/dict-api/baidu-v2" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestBaiDuAPIV2\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="evlic.cn/bcp3th/lab/lab1/simple-dict/dict-api/baidu-v2 中的 TestSign" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="bytecamp-3th-repo" />
+      <working_directory value="$PROJECT_DIR$/lab1/simple-dict/dict-api/baidu-v2" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="evlic.cn/bcp3th/lab/lab1/simple-dict/dict-api/baidu-v2" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestSign\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go 构建.go build evlic.cn/bcp3th/lab/lab1/simple-dict" />
+        <item itemvalue="Go 测试.evlic.cn/bcp3th/lab/lab1/simple-dict/dict-api/baidu-v2 中的 TestBaiDuAPIV2" />
+        <item itemvalue="Go 测试.evlic.cn/bcp3th/lab/lab1/simple-dict/dict-api/baidu-v2 中的 TestSign" />
+        <item itemvalue="Go 测试.evlic.cn/bcp3th/lab/lab1/simple-dict/dict-api 中的 TestSign" />
+        <item itemvalue="Go 测试.evlic.cn/bcp3th/lab/lab1/simple-dict/dict-api 中的 TestBaiDuAPIV2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/v0.1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>

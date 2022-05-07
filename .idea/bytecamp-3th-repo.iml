@@ -5,5 +5,8 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="golang-colly-demo" />
+    <orderEntry type="module" module-name="go-by-example" />
+    <orderEntry type="module" module-name="go-project-example" />
   </component>
 </module>

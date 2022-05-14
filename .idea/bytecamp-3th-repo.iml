@@ -8,5 +8,6 @@
     <orderEntry type="module" module-name="golang-colly-demo" />
     <orderEntry type="module" module-name="go-by-example" />
     <orderEntry type="module" module-name="go-project-example" />
+    <orderEntry type="module" module-name="go-pprof-practice" />
   </component>
 </module>

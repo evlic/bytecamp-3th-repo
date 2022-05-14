@@ -62,10 +62,12 @@ type BaiDuAPI struct {
 func (b BaiDuAPI) Do(s string) dict_api.Result {
 	urlTarget := getUrl()
 	val := copyValues()
+
 	val.Set("query", s)
 	val.Set("sign", signer.Sign(s))
 
 	req := NewReq(urlTarget, strings.NewReader(val.Encode()))
+
 	resp, _ := defClient.Do(req)
 	readResp := ReadResp(resp)
 	// fmt.Println("json >> ", readResp)

@@ -5,23 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8753a316-a7de-49e3-95ca-2228daa887e8" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/lab1/simple-dict/dict-api/baidu-v1/baidu-api.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1/simple-dict/dict-api/baidu-v2/baiduApiV2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1/simple-dict/dict-api/baidu-v2/baidu_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1/simple-dict/dict-api/baidu-v2/model/model.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1/simple-dict/dict-api/baidu-v2/model/parse.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1/simple-dict/dict-api/baidu-v2/model/trans.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1/simple-dict/dict-api/baidu-v2/signer/baidu-js.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1/simple-dict/dict-api/baidu-v2/signer/baiduv2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1/simple-dict/dict-api/baidu-v2/signer/sign_util.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1/simple-dict/dict-api/baidu-v2/util.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1/simple-dict/dict-api/color-cloud.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1/simple-dict/dict-api/translate-api.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1/simple-dict/simple-dict.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/cotroller/publish_post.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/cotroller/query_page_info.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/data/post" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/data/topic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/repository/db_init.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/repository/post.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/repository/topic.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/serve.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/service/publish_post.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/service/query_page_info.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/service/query_page_info_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/bytecamp-3th-repo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bytecamp-3th-repo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/simple-dict/dict-api/baidu-v2/baiduApiV2.go" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/simple-dict/dict-api/baidu-v2/baiduApiV2.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../go-by-example/proxy/v2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go-by-example/proxy/v2/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go-by-example/proxy/v4/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go-by-example/proxy/v4/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go-pprof-practice/animal/canidae/dog/dog.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go-pprof-practice/animal/canidae/dog/dog.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go-pprof-practice/animal/canidae/wolf/wolf.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go-pprof-practice/animal/canidae/wolf/wolf.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go-pprof-practice/animal/felidae/tiger/tiger.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go-pprof-practice/animal/felidae/tiger/tiger.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go-pprof-practice/animal/muridae/mouse/mouse.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go-pprof-practice/animal/muridae/mouse/mouse.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go-pprof-practice/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go-pprof-practice/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go-project-example/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/../go-project-example/go.mod" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +41,13 @@
       <list>
         <option value="JavaScript File" />
         <option value="Go File" />
+        <option value="Go Application" />
       </list>
     </option>
   </component>
   <component name="GOROOT" url="file://$PROJECT_DIR$/../../environment/Go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../go-pprof-practice" />
   </component>
   <component name="GitToolBoxStore">
     <option name="recentBranches">
@@ -76,34 +85,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultGoTemplateProperty": "Go File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "go.import.settings.migrated": "true",
-    "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "D:/AtCode/Go/go-project-example",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go Application&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;//wsl$/Ubuntu/home/evlic/AtCode/Go/tiktok_lite_repo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AtCode\Go\bytecamp-3th-repo\lab2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\AtCode\Go\bytecamp-3th-repo\lab1\simple-dict\dict-api\baidu-v2\sign" />
       <recent name="D:\AtCode\Go\bytecamp-3th-repo\lab1\simple-dict\dict-api\baidu-v2" />
       <recent name="D:\AtCode\Go\bytecamp-3th-repo\lab1\simple-dict\dict-api" />
     </key>
   </component>
-  <component name="RunManager" selected="Go 构建.go build evlic.cn/bcp3th/lab/lab1/simple-dict">
+  <component name="RunManager" selected="Go 构建.go build github.com/wangkechun/go-by-example/proxy/v2">
     <configuration name="go build evlic.cn/bcp3th/lab/lab1/simple-dict" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="bytecamp-3th-repo" />
       <working_directory value="$PROJECT_DIR$" />
@@ -113,28 +126,22 @@
       <filePath value="$PROJECT_DIR$/lab1/simple-dict/simple-dict.go" />
       <method v="2" />
     </configuration>
-    <configuration name="evlic.cn/bcp3th/lab/lab1/simple-dict/dict-api 中的 TestBaiDuAPIV2" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="bytecamp-3th-repo" />
-      <working_directory value="$PROJECT_DIR$/lab1/simple-dict/dict-api" />
-      <root_directory value="$PROJECT_DIR$" />
+    <configuration name="go build github.com/wangkechun/go-by-example/proxy/v2" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-by-example" />
+      <working_directory value="$PROJECT_DIR$/../go-by-example" />
       <kind value="PACKAGE" />
-      <package value="evlic.cn/bcp3th/lab/lab1/simple-dict/dict-api" />
+      <package value="github.com/wangkechun/go-by-example/proxy/v2" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <pattern value="^\QTestBaiDuAPIV2\E$" />
+      <filePath value="$PROJECT_DIR$/../go-by-example/proxy/v2/main.go" />
       <method v="2" />
     </configuration>
-    <configuration name="evlic.cn/bcp3th/lab/lab1/simple-dict/dict-api 中的 TestSign" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="bytecamp-3th-repo" />
-      <working_directory value="$PROJECT_DIR$/lab1/simple-dict/dict-api" />
-      <root_directory value="$PROJECT_DIR$" />
+    <configuration name="go build github.com/wolfogre/go-pprof-practice" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-pprof-practice" />
+      <working_directory value="$PROJECT_DIR$/../go-pprof-practice" />
       <kind value="PACKAGE" />
-      <package value="evlic.cn/bcp3th/lab/lab1/simple-dict/dict-api" />
+      <package value="github.com/wolfogre/go-pprof-practice" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <pattern value="^\QTestSign\E$" />
+      <filePath value="$PROJECT_DIR$/../go-pprof-practice/main.go" />
       <method v="2" />
     </configuration>
     <configuration name="evlic.cn/bcp3th/lab/lab1/simple-dict/dict-api/baidu-v2 中的 TestBaiDuAPIV2" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -163,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go 构建.go build github.com/wangkechun/go-by-example/proxy/v2" />
+        <item itemvalue="Go 构建.go build github.com/wolfogre/go-pprof-practice" />
         <item itemvalue="Go 构建.go build evlic.cn/bcp3th/lab/lab1/simple-dict" />
         <item itemvalue="Go 测试.evlic.cn/bcp3th/lab/lab1/simple-dict/dict-api/baidu-v2 中的 TestBaiDuAPIV2" />
         <item itemvalue="Go 测试.evlic.cn/bcp3th/lab/lab1/simple-dict/dict-api/baidu-v2 中的 TestSign" />
-        <item itemvalue="Go 测试.evlic.cn/bcp3th/lab/lab1/simple-dict/dict-api 中的 TestSign" />
-        <item itemvalue="Go 测试.evlic.cn/bcp3th/lab/lab1/simple-dict/dict-api 中的 TestBaiDuAPIV2" />
       </list>
     </recent_temporary>
   </component>

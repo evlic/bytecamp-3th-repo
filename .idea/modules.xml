@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/bytecamp-3th-repo.iml" filepath="$PROJECT_DIR$/.idea/bytecamp-3th-repo.iml" />
       <module fileurl="file://$PROJECT_DIR$/../go-by-example/.idea/go-by-example.iml" filepath="$PROJECT_DIR$/../go-by-example/.idea/go-by-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../go-pprof-practice/.idea/go-pprof-practice.iml" filepath="$PROJECT_DIR$/../go-pprof-practice/.idea/go-pprof-practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/../go-project-example/.idea/go-project-example.iml" filepath="$PROJECT_DIR$/../go-project-example/.idea/go-project-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/../fxxk-tx-doc-sheet/golang-colly-demo.iml" filepath="$PROJECT_DIR$/../fxxk-tx-doc-sheet/golang-colly-demo.iml" />
     </modules>

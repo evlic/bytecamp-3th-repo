@@ -3,7 +3,7 @@ package baidu_v1
 import (
 	"crypto/md5"
 	"encoding/hex"
-	"evlic.cn/bcp3th/lab/lab1/simple-dict/dict-api"
+	"evlic.cn/bcp3th/lab/simple-dict/dict-api"
 	"fmt"
 	"io/ioutil"
 	"log"

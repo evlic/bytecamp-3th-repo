@@ -1,9 +1,9 @@
 package baidu_v2
 
 import (
-	"evlic.cn/bcp3th/lab/lab1/simple-dict/dict-api"
-	"evlic.cn/bcp3th/lab/lab1/simple-dict/dict-api/baidu-v2/model"
-	"evlic.cn/bcp3th/lab/lab1/simple-dict/dict-api/baidu-v2/signer"
+	"evlic.cn/bcp3th/lab/simple-dict/dict-api"
+	"evlic.cn/bcp3th/lab/simple-dict/dict-api/baidu-v2/model"
+	"evlic.cn/bcp3th/lab/simple-dict/dict-api/baidu-v2/signer"
 	"io"
 	"log"
 	"net/http"

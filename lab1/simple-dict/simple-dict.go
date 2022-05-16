@@ -1,8 +1,8 @@
 package main
 
 import (
-	api "evlic.cn/bcp3th/lab/lab1/simple-dict/dict-api"
-	baiduV2 "evlic.cn/bcp3th/lab/lab1/simple-dict/dict-api/baidu-v2"
+	api "evlic.cn/bcp3th/lab/simple-dict/dict-api"
+	baiduV2 "evlic.cn/bcp3th/lab/simple-dict/dict-api/baidu-v2"
 	"log"
 	"os"
 )

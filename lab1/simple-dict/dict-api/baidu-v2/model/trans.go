@@ -1,7 +1,7 @@
 package model
 
 import (
-	dict_api "evlic.cn/bcp3th/lab/lab1/simple-dict/dict-api"
+	dict_api "evlic.cn/bcp3th/lab/simple-dict/dict-api"
 )
 
 func (s Symbol) toResult() dict_api.Result {
